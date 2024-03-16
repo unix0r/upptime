@@ -4,9 +4,9 @@
     "url": "https://dick-technology.de",
     "icon": "https://icons.duckduckgo.com/ip3/dick-technology.de.ico",
     "slug": "dick-technology",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 232,
     "timeMonth": 232,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Synology",
@@ -106,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 39,
+      "2024-03-16": 247,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
