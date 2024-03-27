@@ -1,7 +1,7 @@
 url: https://sead-ev.de
-status: up
-code: 200
-responseTime: 2198
-lastUpdated: 2024-03-26T23:15:53.544Z
+status: down
+code: 502
+responseTime: 1054
+lastUpdated: 2024-03-27T01:38:16.967Z
 startTime: 2024-03-12T09:19:49.940Z
 generator: Upptime <https://github.com/upptime/upptime>
