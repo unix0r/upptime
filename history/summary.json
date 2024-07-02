@@ -47,14 +47,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.dick-technology.de.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "98.68%",
+    "uptime": "98.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.65%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "99.38%",
-    "uptimeYear": "98.68%",
+    "uptimeYear": "98.69%",
     "time": 3787,
     "timeDay": 1458,
-    "timeWeek": 10394,
+    "timeWeek": 7947,
     "timeMonth": 7791,
     "timeYear": 3787,
     "dailyMinutesDown": {
@@ -125,11 +125,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nari-ev.de.ico",
     "slug": "na-ri-e-v",
     "status": "up",
-    "uptime": "46.33%",
+    "uptime": "46.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.33%",
+    "uptimeYear": "46.64%",
     "time": 310,
     "timeDay": 355,
     "timeWeek": 374,
@@ -204,9 +204,9 @@
     "url": "https://alevtina-wellness.de",
     "icon": "https://icons.duckduckgo.com/ip3/alevtina-wellness.de.ico",
     "slug": "alevtina-wellness",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -215,6 +215,8 @@
     "timeWeek": 2209,
     "timeMonth": 2056,
     "timeYear": 2046,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-02": 0
+    }
   }
 ]
