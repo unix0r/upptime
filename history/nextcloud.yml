@@ -1,7 +1,7 @@
 url: https://cloud.dick-technology.de
-status: up
-code: 200
-responseTime: 975
-lastUpdated: 2025-01-31T23:14:50.945Z
+status: down
+code: 502
+responseTime: 483
+lastUpdated: 2025-02-01T12:39:17.702Z
 startTime: 2024-03-12T09:27:16.854Z
 generator: Upptime <https://github.com/upptime/upptime>
