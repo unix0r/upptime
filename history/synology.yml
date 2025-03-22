@@ -1,7 +1,7 @@
 url: https://synology.dick-technology.de
-status: up
-code: 200
-responseTime: 1017
-lastUpdated: 2025-03-21T23:16:10.600Z
+status: down
+code: 502
+responseTime: 3544
+lastUpdated: 2025-03-22T21:14:10.589Z
 startTime: 2024-03-12T09:27:12.574Z
 generator: Upptime <https://github.com/upptime/upptime>
