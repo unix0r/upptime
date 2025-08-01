@@ -1,7 +1,7 @@
 url: https://bitwarden.dick-technology.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-01T20:35:23.958Z
+status: up
+code: 200
+responseTime: 8271
+lastUpdated: 2025-08-01T20:51:05.062Z
 startTime: 2024-03-12T09:27:19.984Z
 generator: Upptime <https://github.com/upptime/upptime>
