@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.23%",
     "time": 394,
-    "timeDay": 303,
-    "timeWeek": 340,
+    "timeDay": 359,
+    "timeWeek": 338,
     "timeMonth": 511,
     "timeYear": 407,
     "dailyMinutesDown": {
@@ -36,11 +36,11 @@
     "uptimeWeek": "99.09%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "97.37%",
-    "time": 1541,
-    "timeDay": 6997,
-    "timeWeek": 5210,
-    "timeMonth": 3722,
-    "timeYear": 1555,
+    "time": 1546,
+    "timeDay": 6838,
+    "timeWeek": 5415,
+    "timeMonth": 3797,
+    "timeYear": 1557,
     "dailyMinutesDown": {
       "2025-08-05": 52,
       "2025-08-04": 22,
@@ -70,8 +70,7 @@
       "2024-12-26": 23,
       "2024-09-14": 349,
       "2024-09-13": 31,
-      "2024-08-07": 278,
-      "2024-08-06": 60
+      "2024-08-07": 278
     }
   },
   {
@@ -85,11 +84,11 @@
     "uptimeWeek": "94.28%",
     "uptimeMonth": "90.77%",
     "uptimeYear": "96.08%",
-    "time": 3929,
-    "timeDay": 10623,
-    "timeWeek": 7715,
-    "timeMonth": 7040,
-    "timeYear": 3245,
+    "time": 3930,
+    "timeDay": 6252,
+    "timeWeek": 7494,
+    "timeMonth": 7044,
+    "timeYear": 3246,
     "dailyMinutesDown": {
       "2025-08-05": 167,
       "2025-08-04": 337,
@@ -166,8 +165,7 @@
       "2024-08-14": 64,
       "2024-08-12": 38,
       "2024-08-08": 61,
-      "2024-08-07": 290,
-      "2024-08-06": 177
+      "2024-08-07": 290
     }
   },
   {
@@ -181,10 +179,10 @@
     "uptimeWeek": "96.74%",
     "uptimeMonth": "93.83%",
     "uptimeYear": "96.36%",
-    "time": 1051,
-    "timeDay": 1520,
-    "timeWeek": 3015,
-    "timeMonth": 3340,
+    "time": 1050,
+    "timeDay": 1512,
+    "timeWeek": 3019,
+    "timeMonth": 3338,
     "timeYear": 1145,
     "dailyMinutesDown": {
       "2025-08-05": 49,
@@ -228,8 +226,7 @@
       "2024-09-14": 350,
       "2024-09-13": 29,
       "2024-09-04": 25,
-      "2024-08-07": 290,
-      "2024-08-06": 59
+      "2024-08-07": 290
     }
   },
   {
@@ -244,10 +241,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2370,
-    "timeDay": 3172,
-    "timeWeek": 2471,
-    "timeMonth": 2334,
-    "timeYear": 2446,
+    "timeDay": 2290,
+    "timeWeek": 2459,
+    "timeMonth": 2337,
+    "timeYear": 2445,
     "dailyMinutesDown": {
       "2024-10-19": 19,
       "2024-10-14": 33
@@ -259,15 +256,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nari-ev.de.ico",
     "slug": "na-ri-e-v",
     "status": "up",
-    "uptime": "88.26%",
+    "uptime": "88.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 390,
-    "timeDay": 455,
-    "timeWeek": 370,
-    "timeMonth": 332,
+    "timeDay": 347,
+    "timeWeek": 357,
+    "timeMonth": 333,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2025-07-23": 18,
@@ -289,11 +286,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.74%",
-    "time": 2432,
-    "timeDay": 3343,
-    "timeWeek": 2626,
-    "timeMonth": 2329,
-    "timeYear": 2549,
+    "time": 2433,
+    "timeDay": 2070,
+    "timeWeek": 2600,
+    "timeMonth": 2310,
+    "timeYear": 2548,
     "dailyMinutesDown": {
       "2025-07-23": 55,
       "2025-06-24": 39,
