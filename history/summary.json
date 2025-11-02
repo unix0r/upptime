@@ -236,19 +236,19 @@
     "url": "https://sead-ev.de",
     "icon": "https://icons.duckduckgo.com/ip3/sead-ev.de.ico",
     "slug": "sead-e-v",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2485,
-    "timeDay": 3480,
-    "timeWeek": 2797,
-    "timeMonth": 2919,
-    "timeYear": 2491,
+    "time": 2487,
+    "timeDay": 3414,
+    "timeWeek": 2866,
+    "timeMonth": 2932,
+    "timeYear": 2493,
     "dailyMinutesDown": {
-      "2025-11-02": 0
+      "2025-11-02": 13
     }
   },
   {
