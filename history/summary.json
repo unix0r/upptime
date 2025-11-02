@@ -31,7 +31,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/synology.dick-technology.de.ico",
     "slug": "synology",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -236,18 +236,20 @@
     "url": "https://sead-ev.de",
     "icon": "https://icons.duckduckgo.com/ip3/sead-ev.de.ico",
     "slug": "sead-e-v",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2483,
+    "time": 2485,
     "timeDay": 3480,
     "timeWeek": 2797,
     "timeMonth": 2919,
     "timeYear": 2491,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-02": 0
+    }
   },
   {
     "name": "NaRi e.V",
@@ -255,7 +257,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nari-ev.de.ico",
     "slug": "na-ri-e-v",
     "status": "up",
-    "uptime": "89.99%",
+    "uptime": "90.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
