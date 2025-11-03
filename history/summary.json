@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dick-technology.de.ico",
     "slug": "dick-technology",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -236,18 +236,20 @@
     "url": "https://sead-ev.de",
     "icon": "https://icons.duckduckgo.com/ip3/sead-ev.de.ico",
     "slug": "sead-e-v",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2488,
+    "time": 2487,
     "timeDay": 2752,
     "timeWeek": 2891,
     "timeMonth": 2910,
     "timeYear": 2492,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-03": 0
+    }
   },
   {
     "name": "NaRi e.V",
